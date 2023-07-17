@@ -7,3 +7,5 @@ The project was modeled on the basis of only jpg images, only hints about the fo
 The project was made for the challenge from the frontendmentor.
 
 https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
+
+Solution: https://rafal-pixel.github.io/advice-generator-app/
